@@ -16,6 +16,7 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="Arrangement.Rule.Edit" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <mouse-shortcut keystroke="button4" />
@@ -117,6 +118,9 @@
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
@@ -211,6 +215,7 @@
   </action>
   <action id="Vcs.Log.GoToRef" />
   <action id="Vcs.QuickListPopupAction" />
+  <action id="XDebugger.SetValue" />
   <action id="com.jetbrains.php.composer.addDependency.ComposerAddDependencyAction">
     <keyboard-shortcut first-keystroke="ctrl meta alt c" />
   </action>

@@ -1,0 +1,8 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="highlightColor" value="80cbc4" />
+    <option name="accentColor" value="80cbc4" />
+    <option name="wallpaperSet" value="false" />
+    <option name="defaultBackground" value="" />
+  </component>
+</application>

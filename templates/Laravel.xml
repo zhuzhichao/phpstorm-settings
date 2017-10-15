@@ -1,0 +1,14 @@
+<templateSet group="Laravel">
+  <template name="schema-create" value="Schema::create('$tableName$', function (Blueprint $table) {&#10;    $table-&gt;increments('id');&#10;    $END$&#10;    $table-&gt;timestamps();&#10;});" description="创建表" toReformat="false" toShortenFQNames="true">
+    <variable name="tableName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="schema-table" value="Schema::table('$tableName$', function (Blueprint $table) {&#10;    $table-&gt;$END$;&#10;});" description="修改表" toReformat="false" toShortenFQNames="true">
+    <variable name="tableName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -42,6 +42,12 @@
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="Console.TableResult.NavigateAction">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Database.OpenDbStorageAction">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="Debug" />
   <action id="DomCollectionControl.Remove">
     <keyboard-shortcut first-keystroke="back_space" />
@@ -52,6 +58,9 @@
     <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
@@ -122,6 +131,10 @@
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="meta down" />
+    <keyboard-shortcut first-keystroke="shift meta b" />
+  </action>
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
@@ -146,6 +159,7 @@
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="MethodOverloadSwitchDown" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
@@ -219,6 +233,9 @@
   </action>
   <action id="Vcs.Log.GoToRef" />
   <action id="Vcs.QuickListPopupAction" />
+  <action id="XDebugger.JumpToSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="XDebugger.SetValue" />
   <action id="com.jetbrains.php.composer.addDependency.ComposerAddDependencyAction">
     <keyboard-shortcut first-keystroke="ctrl meta alt c" />

@@ -1,9 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="selectedTheme" value="ONE_DARK" />
+    <option name="selectedTheme" value="LIGHTER" />
     <option name="highlightColor" value="80cbc4" />
     <option name="accentColor" value="80cbc4" />
     <option name="wallpaperSet" value="false" />
+    <option name="isMaterialTheme" value="false" />
     <option name="themedScrollbars" value="false" />
     <option name="defaultBackground" value="" />
   </component>

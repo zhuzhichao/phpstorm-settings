@@ -56,7 +56,6 @@
   <template name="choose+" value="&lt;xsl:choose&gt;&#10;  &lt;xsl:when test=&quot;$VAR0$&quot;&gt;$VAR1$&lt;/xsl:when&gt;&#10;  &lt;xsl:otherwise&gt;$END$&lt;/xsl:otherwise&gt;&#10;&lt;/xsl:choose&gt;" description="" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="vare" value="&lt;xsl:variable name=&quot;$VAR0$&quot; select=&quot;$VAR1$&quot; /&gt;" description="&lt;xsl:variable name=&quot;...&quot; select=&quot;...&quot; /&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />

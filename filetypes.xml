@@ -2,8 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
+      <mapping pattern="npm" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

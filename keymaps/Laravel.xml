@@ -145,9 +145,7 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
-  <action id="GotoImplementation">
-    <keyboard-shortcut first-keystroke="meta alt b" />
-  </action>
+  <action id="GotoImplementation" />
   <action id="GotoNextError" />
   <action id="GotoTypeDeclaration" />
   <action id="Graph.Delete">
@@ -155,6 +153,9 @@
     <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
   <action id="ImplementMethods" />
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="meta alt b" />
+  </action>
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />

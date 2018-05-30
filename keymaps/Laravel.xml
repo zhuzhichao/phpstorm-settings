@@ -236,6 +236,9 @@
   </action>
   <action id="Vcs.Log.GoToRef" />
   <action id="Vcs.QuickListPopupAction" />
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
   <action id="XDebugger.JumpToSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>

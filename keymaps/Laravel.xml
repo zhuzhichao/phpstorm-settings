@@ -9,7 +9,9 @@
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
-  <action id="ActivateFindToolWindow" />
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>

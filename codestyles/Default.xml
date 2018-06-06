@@ -13,6 +13,7 @@
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="ALIGN_ASSIGNMENTS" value="true" />
+    <option name="CONCAT_SPACES" value="false" />
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
@@ -51,6 +52,7 @@
     <option name="FOR_STATEMENT_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="FOR_STATEMENT_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
+    <option name="WRAP_ON_TYPING" value="0" />
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />

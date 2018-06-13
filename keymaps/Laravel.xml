@@ -137,6 +137,9 @@
     <keyboard-shortcut first-keystroke="meta down" />
     <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="meta 7" />
+  </action>
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>

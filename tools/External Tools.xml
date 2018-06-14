@@ -1,8 +1,8 @@
 <toolSet name="External Tools">
-  <tool name="php cs fixer" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="php cs fixer" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="php" />
-      <option name="PARAMETERS" value="php-cs-fixer-v2.phar fix $FilePath$" />
+      <option name="PARAMETERS" value="php-cs-fixer-7.2.phar fix $FilePath$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>

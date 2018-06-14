@@ -15,8 +15,12 @@
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="ActivateTODOToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="meta 6" />
   </action>
   <action id="Arrangement.Rule.Edit" />
   <action id="Back">

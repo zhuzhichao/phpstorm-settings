@@ -7,5 +7,6 @@
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="mac.editor.thumb.default.alpha.base" value="102" />
+    <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
   </component>
 </application>

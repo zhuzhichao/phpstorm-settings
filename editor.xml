@@ -2,7 +2,7 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
     <option name="FONT_FAMILY" value="Operator Mono" />
-    <option name="LINE_SPACING" value="1.2" />
+    <option name="LINE_SPACING" value="1.5" />
     <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">

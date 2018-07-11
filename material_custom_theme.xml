@@ -5,8 +5,7 @@
     <option name="secondBorderColor" value="2a373e" />
     <option name="contrastColor" value="1e272c" />
     <option name="secondaryBackgroundColor" value="32424a" />
-    <option name="caretColor" value="ffcc00" />
-    <option name="inactiveColor" value="2e3c43" />
+    <option name="buttonColor" value="2e3c43" />
     <option name="selectionForegroundColor" value="ffffff" />
     <option name="selectionBackgroundColor" value="546e7a" />
     <option name="textColor" value="607d8b" />

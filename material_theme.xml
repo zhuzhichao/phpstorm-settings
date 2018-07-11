@@ -1,11 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="version" value="2.4.2-2018.1" />
     <option name="selectedTheme" value="LIGHTER" />
     <option name="highlightColor" value="80cbc4" />
     <option name="accentColor" value="80cbc4" />
-    <option name="wallpaperSet" value="false" />
     <option name="isMaterialTheme" value="false" />
     <option name="themedScrollbars" value="false" />
-    <option name="defaultBackground" value="" />
+    <option name="userId" value="32b8d02b:16488039022:-7fff" />
   </component>
 </application>

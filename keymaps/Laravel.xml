@@ -1,10 +1,4 @@
 <keymap version="1" name="Laravel" parent="Mac OS X 10.5+">
-  <action id="$Delete">
-    <keyboard-shortcut first-keystroke="delete" />
-    <keyboard-shortcut first-keystroke="back_space" />
-    <keyboard-shortcut first-keystroke="meta back_space" />
-    <keyboard-shortcut first-keystroke="ctrl d" />
-  </action>
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
@@ -201,7 +195,7 @@
     <keyboard-shortcut first-keystroke="meta alt space" />
   </action>
   <action id="SplitHorizontally">
-    <keyboard-shortcut first-keystroke="ctrl h" />
+    <keyboard-shortcut first-keystroke="alt v" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl v" />

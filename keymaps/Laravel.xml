@@ -164,6 +164,9 @@
     <mouse-shortcut keystroke="button2" />
   </action>
   <action id="MethodOverloadSwitchDown" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>

@@ -11,4 +11,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="pubsp" value="public function scope$NAME$ ($query)&#10;{&#10;    $query-&gt;$END$;&#10;    &#10;    return $query;&#10;}" description="Scope 搜索" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>

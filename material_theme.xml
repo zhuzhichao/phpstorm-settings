@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.8.1" />
+    <option name="version" value="2.8.2" />
     <option name="selectedTheme" value="SOLARIZED_LIGHT" />
     <option name="highlightColor" value="80cbc4" />
     <option name="isContrastMode" value="true" />

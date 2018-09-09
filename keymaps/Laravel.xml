@@ -71,7 +71,6 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="EditorCloneCaretAbove">
-    <keyboard-shortcut first-keystroke="shift meta l" />
     <keyboard-shortcut first-keystroke="shift ctrl meta open_bracket" />
   </action>
   <action id="EditorDelete">
@@ -137,6 +136,9 @@
   </action>
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="meta 7" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
@@ -239,6 +241,9 @@
     <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
   <action id="Vcs.Log.GoToRef" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="meta 8" />

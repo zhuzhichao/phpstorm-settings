@@ -3,13 +3,13 @@
     <property name="created">2018-07-11T14:33:01</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-10-18T17:47:59</property>
+    <property name="modified">2018-10-18T18:08:31</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
-    <option name="FILESTATUS_COPIED" value="a7700" />
+    <option name="FILESTATUS_COPIED" value="73c990" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
     <option name="FILESTATUS_MODIFIED" value="2996f4" />
-    <option name="FILESTATUS_RENAMED" value="7c7c" />
+    <option name="FILESTATUS_RENAMED" value="4242" />
   </colors>
 </scheme>

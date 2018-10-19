@@ -1,0 +1,10 @@
+<templateSet group="Element-Ui">
+  <template name="el-table-column" value="&lt;el-table-column&#10;        label=&quot;$lableName$&quot;&#10;        width=&quot;$width$&quot;&#10;        align=&quot;center&quot;&gt;&#10;    &lt;template slot-scope=&quot;scope&quot;&gt;&#10;        {{scope.row.$field$}}&#10;    &lt;/template&gt;&#10;&lt;/el-table-column&gt;" description="element ui 的列" toReformat="true" toShortenFQNames="true">
+    <variable name="lableName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="width" expression="" defaultValue="100" alwaysStopAt="true" />
+    <variable name="field" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+</templateSet>

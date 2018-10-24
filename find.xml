@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Files | Care Abuout" />
-    <option name="defaultScopeName" value="Files | Care Abuout" />
-    <option name="SEARCH_SCOPE" value="Files | Care Abuout" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>

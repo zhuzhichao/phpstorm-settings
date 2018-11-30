@@ -1,20 +1,20 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.9.6.4" />
-    <option name="selectedTheme" value="SOLARIZED_LIGHT" />
-    <option name="highlightColor" value="80cbc4" />
-    <option name="isContrastMode" value="true" />
-    <option name="accentColor" value="2979ff" />
-    <option name="useProjectViewDecorators" value="false" />
+    <option name="accentScrollbars" value="false" />
+    <option name="allowDataCollection" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="darkTitleBar" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
-    <option name="accentScrollbars" value="false" />
-    <option name="darkTitleBar" value="true" />
-    <option name="compactDropdowns" value="true" />
-    <option name="settingsSelectedTab" value="4" />
-    <option name="userId" value="32b8d02b:16488039022:-7fff" />
-    <option name="allowDataCollection" value="true" />
+    <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="useProjectViewDecorators" value="false" />
+    <option name="settingsSelectedTab" value="4" />
+    <option name="accentColor" value="2979ff" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="selectedTheme" value="SOLARIZED_LIGHT" />
+    <option name="userId" value="32b8d02b:16488039022:-7fff" />
+    <option name="version" value="3.0.0-rc3" />
   </component>
 </application>

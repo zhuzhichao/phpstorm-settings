@@ -4,14 +4,14 @@
     <property name="created">2018-07-11T14:35:01</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2018-10-18T18:08:31</property>
+    <property name="modified">2018-11-30T16:04:36</property>
     <property name="originalScheme">Material Solarized Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="Operator Mono" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Operator Mono" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baeeba" />
@@ -21,7 +21,7 @@
     <option name="CARET_ROW_COLOR" value="eee8d5" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fdf6e3" />
     <option name="FILESTATUS_MODIFIED" value="2996f4" />
-    <option name="GUTTER_BACKGROUND" value="fdf6e3" />
+    <option name="GUTTER_BACKGROUND" value="fff9e4" />
     <option name="INDENT_GUIDE" value="eee8d5" />
     <option name="LINE_NUMBERS_COLOR" value="93a1a1" />
     <option name="METHOD_SEPARATORS_COLOR" value="eee8d5" />
@@ -3094,7 +3094,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="586e75" />
-        <option name="BACKGROUND" value="fdf6e3" />
+        <option name="BACKGROUND" value="fff9e4" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">

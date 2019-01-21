@@ -4,7 +4,7 @@
     <property name="created">2017-10-30T10:30:52</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2017-10-30T10:42:17</property>
+    <property name="modified">2019-01-21T10:25:13</property>
     <property name="originalScheme">Material Lighter</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -18,7 +18,6 @@
   </font>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="597f5f" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -48,7 +47,7 @@
     <option name="FILESTATUS_addedOutside" value="629755" />
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="80cbc4" />
-    <option name="GUTTER_BACKGROUND" value="f7faff" />
+    <option name="GUTTER_BACKGROUND" value="ffffff" />
     <option name="INDENT_GUIDE" value="b0bec5" />
     <option name="INFORMATION_HINT" value="f3f5f6" />
     <option name="LINE_NUMBERS_COLOR" value="cfd8dc" />
@@ -699,7 +698,7 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ff5370" />
+        <option name="BACKGROUND" value="ff5270" />
         <option name="ERROR_STRIPE_COLOR" value="ff5370" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
@@ -1063,7 +1062,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="212121" />
+        <option name="BACKGROUND" value="dedede" />
         <option name="ERROR_STRIPE_COLOR" value="65737e" />
       </value>
     </option>
@@ -1074,7 +1073,7 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="c3e88d" />
+        <option name="BACKGROUND" value="c3e88d" />
         <option name="ERROR_STRIPE_COLOR" value="aeae80" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
@@ -1989,9 +1988,7 @@
       </value>
     </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
-      <value>
-        <option name="BACKGROUND" value="f7faff" />
-      </value>
+      <value />
     </option>
     <option name="PHP_SEMICOLON">
       <value>
@@ -2876,7 +2873,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="80cbc4" />
-        <option name="BACKGROUND" value="f7faff" />
+        <option name="BACKGROUND" value="ffffff" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -2952,7 +2949,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ffb62c" />
+        <option name="BACKGROUND" value="f8e71c" />
         <option name="ERROR_STRIPE_COLOR" value="ffb62c" />
         <option name="EFFECT_TYPE" value="4" />
       </value>

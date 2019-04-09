@@ -3,47 +3,148 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/GraphQL.result.json" timestamp="1554742519900">
+      <file name="/Dummy.txt" timestamp="1554772592218">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" timestamp="1554771538532">
-        <mark key="'" line="45" column="32" />
-        <mark key="[" line="51" column="34" />
-        <mark key="]" line="51" column="33" />
-        <mark key="." line="51" column="33" />
-        <mark key="^" line="51" column="33" />
+      <file name="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Controller/Html/Article.php" timestamp="1554774022070">
+        <mark key="'" line="108" column="0" />
+      </file>
+      <file name="/PHP Console" timestamp="1554774533995">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1554771778947">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" timestamp="1554773024849">
+        <mark key="'" line="133" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="20" column="8" />
+      </file>
+      <file name="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Controller/Html/Selfmedia.php" timestamp="1554774847757">
+        <mark key="[" line="33" column="123" />
+        <mark key="]" line="33" column="123" />
+        <mark key="^" line="33" column="123" />
+        <mark key="." line="33" column="123" />
+      </file>
+      <file name="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Template/selfmedia/home.phtml" timestamp="1554773792777">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Public/index.php" timestamp="1554774502605">
+        <mark key="[" line="67" column="21" />
+        <mark key="]" line="67" column="20" />
+        <mark key="^" line="67" column="20" />
+        <mark key="." line="67" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
-      <jump line="47" column="17" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
-      <jump line="48" column="61" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
-      <jump line="51" column="61" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
-      <jump line="79" column="21" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
       <jump line="80" column="49" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
       <jump line="86" column="28" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
       <jump line="91" column="61" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
       <jump line="2" column="21" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
       <jump line="11" column="12" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
-      <jump line="13" column="15" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
-      <jump line="16" column="22" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
-      <jump line="18" column="20" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="64" column="61" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="75" column="1" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="74" column="23" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="79" column="27" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="83" column="8" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="94" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="88" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="82" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="72" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="67" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="65" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="63" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="60" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="56" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="37" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="46" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="49" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="71" column="29" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="51" column="22" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="48" column="22" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="47" column="17" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="45" column="17" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="44" column="17" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
       <jump line="43" column="14" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
-      <jump line="44" column="52" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
-      <jump line="45" column="32" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="18" column="20" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="16" column="22" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="13" column="15" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="36" column="4" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="32" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="30" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="28" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="26" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="24" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="19" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="3" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="52" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="14" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="6" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="133" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="145" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Controller/Html/Article.php" />
+      <jump line="70" column="35" filename="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Controller/Html/Article.php" />
+      <jump line="76" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Controller/Html/Article.php" />
+      <jump line="78" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Controller/Html/Article.php" />
+      <jump line="86" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Controller/Html/Article.php" />
+      <jump line="95" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Controller/Html/Article.php" />
+      <jump line="100" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Controller/Html/Article.php" />
+      <jump line="103" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Controller/Html/Article.php" />
+      <jump line="138" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Controller/Html/Article.php" />
+      <jump line="136" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Controller/Html/Article.php" />
+      <jump line="131" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Controller/Html/Article.php" />
+      <jump line="124" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Controller/Html/Article.php" />
+      <jump line="121" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Controller/Html/Article.php" />
+      <jump line="116" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Controller/Html/Article.php" />
+      <jump line="108" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Controller/Html/Article.php" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9naW5fdWlkID0gJHRoaXMtPl9yZXF1ZXN0LT5nZXRQYXJhbSgnbG9naW5fdWlkJyk7Cg==</text>
-      </register>
       <register name="&quot;" type="4">
-        <text>_request</text>
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="-" type="4">
-        <text>_request</text>
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkZGJDbGllbnQgPSBtZWRvb2RiKCdieGRfcWEnKTsK</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgJ21haW4nID0+IFsKCiAgICAgICAgICAgXSwKICAgICAgICAgICAnJw==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dXNlIE1vZGVsXFVjZW50ZXJcVWNlbnRlcjsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkcGFyfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkcGFnZSA8IDEgJiYgJHBhZ2UgPSAxOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkcGFnZSA9IChpbnQpYXBwKCktPnJlcXVlc3QtPnBhcmFtcygncGFnZScsIDEpOy8v6Zeu6aKY5Zue562U55qE6aG156CBCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkcXFpZCA9IChpbnQpYXBwKCktPnJlcXVlc3QtPnBhcmFtcygncWlkJywgMCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAkdXNlcmlkID0gJHRoaXMtPnVpZDsK</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">YW1zID0gYXJyYXkoCiAgICAgICAgICAgICdsaXN0VHlwZScgPT4gJ0JZX1FVRVNUSU9OX0lEJywKICAgICAgICAgICAgJ3F1ZXN0aW9uSWRzJyA9PiAkcXFpZAogICAgICAgICk7CiAgICAgICAgJHJlc3VsdCA9IGFwaUNsaWVudCgnd2Vud2VuL3F1ZXN0aW9uL2xpc3QnLCAxLCAnd2Vud2VuJywgJHBhcmFtcyk7CiAgICAgICAgaWYgKCRyZXN1bHQtPmNvZGUgIT0gMjAwKSB7CiAgICAgICAgICAgICR0aGlzLT5yZXNwb25zZUh0bWwoJHJlc3VsdC0+Y29kZSwgJHJlc3VsdC0+ZGF0YSk7CiAgICAgICAgfQoKICAgICAgICBpZiAoZW1wdHkoJHJlc3VsdC0+ZGF0YVsnbGlzdCddKSkgewogICAgICAgICAgICAkdGhpcy0+cmVzcG9uc2VIdG1sKC0xLCAn6Zeu6aKY5LiN5a2Y5ZyoJyk7CiAgICAgICAgfQoKICAgICAgICAkdXNlcnNJZCA9IFtdOwoKICAgICAgICAvLyAxLjEg6Zeu6aKY5aSE55CGCiAgICAgICAgJHF1ZXN0aW9uID0gJHJlc3VsdC0+ZGF0YVsnbGlzdCddWzBdOwogICAgICAgICRyZXQgPSBcTGliXFF1ZXN0aW9uXFF1ZXN0aW9uOjpxdWVzdGlvbk1hcHMoJHF1ZXN0aW9uKTsKICAgICAgICAkcmV0WydxcWRfY29udGVudCddID0gbmwyYnIoJHJldFsncXFkX2NvbnRlbnQnXSk7CiAgICAgICAgJHJldFsnaXNmYXYnXSA9IDA7CiAgICAgICAgJHVzZXJzSWRbXSA9ICRyZXRbJ3VfaWQnXTsKICAgICAgICAvLyAxLjIg55m75b2V54q25oCB5LiL77yM5p+l6K+i6Zeu6aKY5piv5ZCm5bey5pS26JePCiAgICAgICAgaWYgKCR1c2VyaWQgPiAwKSB7CiAgICAgICAgICAgICRjb2xsZWN0UmVzID0gYXBpQ2xpZW50KCd3ZW53ZW4vcXVlc3Rpb24vaXMvY29sbGVjdCcsIDEsICd3ZW53ZW4nLCBbJ3FxX2lkcycgPT4gJHFxaWQsICd1X2lkJyA9PiAkdXNlcmlkXSk7CiAgICAgICAgICAgIGlmICgkY29sbGVjdFJlcy0+Y29kZSA9PSAyMDApIHsKICAgICAgICAgICAgICAgICRyZXRbJ2lzZmF2J10gPSAoaW50KSgkY29sbGVjdFJlcy0+ZGF0YVswXVsnaXNDb2xsZWN0J10gPT0gMSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIC8vIDIuMSDlm57nrZTliJfooagKICAgICAgICAkcGFyYW1zID0gYXJyYXkoCiAgICAgICAgICAgICdxcV9pZHMnID0+ICRxcWlkLAogICAgICAgICAgICAncGFnZU5vJyA9PiAkcGFnZSwKICAgICAgICAgICAgJ3BhZ2VTaXplJyA9PiA1MCwvL+m7mOiupOaYvuekujUw5p2hCiAgICAgICAgICAgICdpc1Nob3cnID0+IDEsCiAgICAgICAgKTsKICAgICAgICAkcmVzdWx0ID0gYXBpQ2xpZW50KCd3ZW53ZW4vYW5zd2VyL2xpc3QnLCAxLCAnd2Vud2VuJywgJHBhcmFtcyk7CiAgICAgICAgaWYgKCRyZXN1bHQtPmNvZGUgIT0gMjAwKSB7CiAgICAgICAgICAgICR0aGlzLT5yZXNwb25zZUh0bWwoLTEsICflm57nrZTkv6Hmga/ojrflj5blpLHotKUnKTsKICAgICAgICB9CgogICAgICAgICRhbnN3ZXJzID0gJHJlc3VsdC0+ZGF0YTsKICAgICAgICAkdXNlcnNJZCA9IGFycmF5X21lcmdlKCR1c2Vyc0lkLCBhcnJheV9jb2x1bW4oJGFuc3dlcnMsICd1X2lkJykpOwogICAgICAgIC8vIDIuMiDlm57nrZTnmoTmlLbol4/nirbmgIEKICAgICAgICAkY29sbGVjdFN0YXR1cyA9IFxMaWJcUXVlc3Rpb25cUXVlc3Rpb246OmdldEFuc3dlckNvbGxlY3RTdGF0dXMoYXJyYXlfY29sdW1uKCRhbnN3ZXJzLCAncXFhX2lkJyksICR1c2VyaWQpOwoKICAgICAgICAvLyAyLjIg6L+96Zeu6L+9562U5pWw5o2uCiAgICAgICAgJHJldFsnYW5zd2VyX2luZm8nXSA9IFtdOwogICAgICAgIGZvcmVhY2ggKCRhbnN3ZXJzIGFzICRhbnN3ZXIpIHsKICAgICAgICAgICAgJHJvdyA9IFxMaWJcUXVlc3Rpb25cUXVlc3Rpb246OmFuc3dlck1hcHMoJGFuc3dlcik7CiAgICAgICAgICAgICRyb3dbJ3FxYV9jb250ZW50J10gPSBubDJicigkcm93WydxcWFfY29udGVudCddKTsKICAgICAgICAgICAgJHJvd1snaXNmYXYnXSA9ICRjb2xsZWN0U3RhdHVzWyRyb3dbJ3FxYV9pZCddXTsKICAgICAgICAgICAgJGZvbGxvd1BhcmFtcyA9IFsKICAgICAgICAgICAgICAgICdxcV9pZCcgPT4gJHJvd1sncXFfaWQnXSwKICAgICAgICAgICAgICAgICdxcWFfaWQnID0+ICRyb3dbJ3FxYV9pZCddLAogICAgICAgICAgICAgICAgJ3N0YXR1cycgPT4gMCwKICAgICAgICAgICAgICAgICdwYWdlJyA9PiAxLAogICAgICAgICAgICAgICAgJ3BhZ2VTaXplJyA9PiAyLAogICAgICAgICAgICBdOwogICAgICAgICAgICAkZm9sbG93ID0gW107CiAgICAgICAgICAgICRmb2xsb3dSZXMgPSBhcGlDbGllbnQoJ3dlbndlbi9hbnN3ZXIvZm9sbG93L3VwJywgMSwgJ3dlbndlbicsICRmb2xsb3dQYXJhbXMpOwogICAgICAgICAgICBpZiAoJGZvbGxvd1Jlcy0+Y29kZSA9PSAyMDApIHsKICAgICAgICAgICAgICAgICRmb2xsb3cgPSBhcnJheV9tYXAoZnVuY3Rpb24gKCR2KSB7CiAgICAgICAgICAgICAgICAgICAgJHRtcEZvbGxvdyA9IFxMaWJcUXVlc3Rpb25cUXVlc3Rpb246OmZvbGxvd1VwTWFwcygkdik7CiAgICAgICAgICAgICAgICAgICAgJHRtcEZvbGxvd1sncWZ1X2NvbnRlbnQnXSA9IG5sMmJyKCR0bXBGb2xsb3dbJ3FmdV9jb250ZW50J10pOwogICAgICAgICAgICAgICAgICAgIHJldHVybiAkdG1wRm9sbG93OwogICAgICAgICAgICAgICAgfSwgJGZvbGxvd1Jlcy0+ZGF0YVsnbGlzdCddKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgJHVzZXJzSWQgPSBhcnJheV9tZXJnZSgkdXNlcnNJZCwgYXJyYXlfY29sdW1uKCRmb2xsb3csICdxZnVfYWN0aXZlX3VpZCcpKTsKICAgICAgICAgICAgJHJvd1snZm9sbG93Q291bnQnXSA9ICRmb2xsb3dSZXMtPmRhdGFbJ3RvdGFsJ107CiAgICAgICAgICAgICRyb3dbJ2ZvbGxvd1VwJ10gPSAkZm9sbG93OwogICAgICAgICAgICAkcmV0WydhbnN3ZXJfaW5mbyddW10gPSAkcm93OwogICAgICAgIH0KCiAgICAgICAgLy8gMy4xIOeUqOaIt+S/oeaBr+aVsOaNrizngrnotZ7nirbmgIEKICAgICAgICAkbGlrZVN0YXR1cyA9IFxMaWJcUXVlc3Rpb25cUXVlc3Rpb246OmdldEFuc3dlckxpa2VTdGF0dXMoJHFxaWQsICR1c2VyaWQpOwogICAgICAgICRkaXNsaWtlU3RhdHVzID0gXExpYlxRdWVzdGlvblxRdWVzdGlvbjo6Z2V0QW5zd2VyRGlzbGlrZVN0YXR1cygkcXFpZCwgJHVzZXJpZCk7CiAgICAgICAgJHVzZXJzID0gXExpYlxRdWVzdGlvblxRdWVzdGlvbjo6Z2V0dXNlcigkdXNlcnNJZCk7CiAgICAgICAgJHJldCA9IGFycmF5X21lcmdlKCRyZXQsICR1c2Vyc1skcmV0Wyd1X2lkJ11dKTsKICAgICAgICBmb3JlYWNoICgkcmV0WydhbnN3ZXJfaW5mbyddIGFzICRrID0+ICRhbnN3ZXIpIHsKICAgICAgICAgICAgJGZvbGxvd1VwVGVtcCA9IGFycmF5X2ZpbHRlcigkYW5zd2VyWydmb2xsb3dVcCddKTsKICAgICAgICAgICAgZm9yZWFjaCAoJGZvbGxvd1VwVGVtcCBhcyAka2sgPT4gJHZ2KSB7CiAgICAgICAgICAgICAgICAkZm9sbG93VXBUZW1wWyRra10gPSBhcnJheV9tZXJnZSgkdnYsICR1c2Vyc1skdnZbJ3FmdV9hY3RpdmVfdWlkJ11dKTsKICAgICAgICAgICAgfQogICAgICAgICAgICAkYW5zd2VyWydmb2xsb3dVcCddID0gJGZvbGxvd1VwVGVtcDsKICAgICAgICAgICAgJGFuc3dlclsnaXNMaWtlJ10gPSAoaW50KWlzc2V0KCRsaWtlU3RhdHVzWyR2dlsncXFhX2lkJ11dKTsKICAgICAgICAgICAgJGFuc3dlclsnaXNEaXNsaWtlJ10gPSAoaW50KWlzc2V0KCRkaXNsaWtlU3RhdHVzWyR2dlsncXFhX2lkJ11dKTsKICAgICAgICAgICAgJHJldFsnYW5zd2VyX2luZm8nXVska10gPSBhcnJheV9tZXJnZSgkYW5zd2VyLCAkdXNlcnNbJGFuc3dlclsndV9pZCddXSk7CiAgICAgICAg</text>
+      </register>
+      <register name=":" type="4">
+        <text>set nonu</text>
       </register>
     </registers>
     <search>
@@ -60,8 +161,20 @@
       </history-search>
       <history-cmd>
         <entry>/61</entry>
+        <entry>actionlist</entry>
+        <entry>20</entry>
+        <entry>set nonu</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>

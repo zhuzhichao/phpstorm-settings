@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1554776122872">
+      <file name="/Dummy.txt" timestamp="1554777510370">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Controller/Html/Article.php" timestamp="1554774022070">
@@ -14,13 +14,6 @@
       </file>
       <file name="/GraphQL.result.json" timestamp="1554771778947">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" timestamp="1554776478894">
-        <mark key="'" line="56" column="64" />
-        <mark key="[" line="56" column="15" />
-        <mark key="]" line="56" column="27" />
-        <mark key="." line="56" column="27" />
-        <mark key="^" line="56" column="27" />
       </file>
       <file name="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Controller/Html/Selfmedia.php" timestamp="1554776140275">
         <mark key="[" line="33" column="34" />

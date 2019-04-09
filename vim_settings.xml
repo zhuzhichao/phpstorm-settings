@@ -11,11 +11,14 @@
       <file name="/GraphQL.result.json" timestamp="1554771778947">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Lib/Selfmedia/Selfmedia.php" timestamp="1554797067477">
-        <mark key="[" line="97" column="45" />
-        <mark key="]" line="83" column="55" />
-        <mark key="." line="83" column="55" />
-        <mark key="^" line="83" column="55" />
+      <file name="/a.dummy" timestamp="1554799546113">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Lib/Selfmedia/Selfmedia.php" timestamp="1554800107414">
+        <mark key="[" line="84" column="36" />
+        <mark key="]" line="85" column="7" />
+        <mark key="." line="85" column="7" />
+        <mark key="^" line="85" column="7" />
       </file>
       <file name="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaFollow.php" timestamp="1554797696881">
         <mark key="[" line="66" column="13" />
@@ -36,7 +39,7 @@
         <mark key="^" line="122" column="0" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/data/logs/20190409/SERVER-SIGN-NULL_ERROR_rest-uncatch-exception-.log" timestamp="1554794330136">
+      <file name="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/data/logs/20190409/SERVER-SIGN-NULL_ERROR_rest-uncatch-exception-.log" timestamp="1554799868753">
         <mark key="'" line="167" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Special/SpecialEdit.php" timestamp="1554792339991" />
@@ -46,9 +49,12 @@
       <file name="/PHP Console" timestamp="1554774533995">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" timestamp="1554797390375">
+      <file name="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" timestamp="1554800273782">
         <mark key="'" line="22" column="23" />
-        <mark key="[" line="104" column="1" />
+        <mark key="[" line="87" column="27" />
+        <mark key="]" line="87" column="27" />
+        <mark key="." line="87" column="27" />
+        <mark key="^" line="120" column="51" />
       </file>
       <file name="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/config/rest.php" timestamp="1554792546910">
         <mark key="[" line="212" column="39" />
@@ -60,6 +66,13 @@
         <mark key="]" line="35" column="34" />
         <mark key="^" line="35" column="34" />
         <mark key="." line="35" column="34" />
+      </file>
+      <file name="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaFanfollowerList.php" timestamp="1554800940370">
+        <mark key="e" line="50" column="53" />
+        <mark key="[" line="50" column="54" />
+        <mark key="]" line="50" column="11" />
+        <mark key="." line="50" column="11" />
+        <mark key="^" line="50" column="11" />
       </file>
       <file name="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Special/SpecialAdd.php" timestamp="1554792333648" />
     </filemarks>
@@ -138,14 +151,27 @@
       <jump line="128" column="88" filename="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Public/index.php" />
       <jump line="13" column="44" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/data/logs/20190409/SERVER-SIGN-NULL_ERROR_rest-uncatch-exception-.log" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/data/logs/20190409/SERVER-SIGN-NULL_ERROR_rest-uncatch-exception-.log" />
+      <jump line="135" column="1" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Lib/Selfmedia/Selfmedia.php" />
+      <jump line="136" column="1" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Lib/Selfmedia/Selfmedia.php" />
+      <jump line="137" column="1" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Lib/Selfmedia/Selfmedia.php" />
+      <jump line="138" column="1" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Lib/Selfmedia/Selfmedia.php" />
+      <jump line="139" column="1" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Lib/Selfmedia/Selfmedia.php" />
+      <jump line="140" column="1" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Lib/Selfmedia/Selfmedia.php" />
+      <jump line="141" column="1" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Lib/Selfmedia/Selfmedia.php" />
+      <jump line="142" column="1" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Lib/Selfmedia/Selfmedia.php" />
+      <jump line="143" column="1" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Lib/Selfmedia/Selfmedia.php" />
+      <jump line="144" column="1" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Lib/Selfmedia/Selfmedia.php" />
+      <jump line="145" column="1" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Lib/Selfmedia/Selfmedia.php" />
+      <jump line="146" column="1" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Lib/Selfmedia/Selfmedia.php" />
+      <jump line="147" column="15" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Lib/Selfmedia/Selfmedia.php" />
       <jump line="167" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/data/logs/20190409/SERVER-SIGN-NULL_ERROR_rest-uncatch-exception-.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>消关注接口</text>
+        <text>login_uid</text>
       </register>
       <register name="-" type="4">
-        <text>消关注接口</text>
+        <text>login_uid</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
@@ -153,32 +179,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkZGJDbGllbnQgPSBtZWRvb2RiKCdieGRfcWEnKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgogICAgcHJpdmF0ZSBmdW5jdGlvbiBnZXRMaXN0Q29uZGl0aW9ucygpCiAgICB7CgogICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgogICAgLyoqCiAgICAgKiDojrflj5blvZPliY3nlKjmiLflhbPms6jnmoToh6rlqpLkvZMgdV9pZAogICAgICoKICAgICAqIEByZXR1cm4gYXJyYXkKICAgICAqLwogICAgcHJvdGVjdGVkIGZ1bmN0aW9uIGdldE15Rm9sbG93ZWRTZWxmbWVkaWFVaWRzKCkKICAgIHsKICAgICAgICAkZGJDbGllbnQgPSBtZWRvb2RiKCdieGRfcWEnKTsKICAgICAgICAkZm9sbG93ZWRVaWRzID0gJGRiQ2xpZW50LT5zZWxlY3QoJ3NlbGZfbWVkaWFfcmVsYXRpb24nLCAnc21yX3RvVWlkJywgWydzbXJfZnJvbVVpZCcgPT4gJHRoaXMtPmxvZ2luX3VpZF0pOwoKICAgICAgICByZXR1cm4gJGRiQ2xpZW50LT5zZWxlY3QoJ3NlbGZfbWVkaWEnLCAndV9pZCcsIFsndV9pZCcgPT4gJGZvbGxvd2VkVWlkc10pOwogICAgfQ==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">dXNlIGNvbnRyb2xsZXJcVGhpbmtUYW5rXFRoaW5rVGFuazsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cn0K</text>
-      </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dV9pZHMgPSAkdGhpcy0+dV9pZHMgPT09ICcnIHx8IGlzX251bGwoJHRoaXMtPnVfaWRzKSA/IFtdIDogZXhwbG9kZSgnLCcsICR0aGlzLT51X2lkcyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dV9pZHMgPSAkdGhpcy0+X3JlcXVlc3QtPmdldFBhcmFtKCd1X2lkcycpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyDmn6Xor6IgaWRzCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRpc0ZvbGxvd2VkID0gJHVfaWQsICR0aGlzLT5sb2dpbl91aWQsICR0aGlzLT5hY3Rpb24pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dV9pZHMgPSAkdGhpcy0+X3JlcXVlc3QtPmdldFBhcmFtKCd1X2lkcycpZGQ7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJHVfaWRzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICdzZWxmbWVpZGEvJyA9PiBbJ2lkJyA9PiAxNjU0LCAnc2FmZV9sZXZlbCcgPT4gMSwgJ2lzX2xvZycgPT4gdHJ1ZSwgJ2lzX3JlcXVlc3RfbG9nJyA9PiB0cnVlLCAnaXNfcmVzcG9uc2VfbG9nJyA9PiB0cnVlLCAnZnJlcXVlbmN5X2xpbWl0JyA9PiAwLCAnc2FtZV9wYWNrYWdlX2xpbWl0JyA9PiAwXSwK</text>
+        <text encoding="base64">dXNlIExpYlxDb21tb25cQXZhdGFyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIExpYlxDb21tb25cQXZhdGFyOwo=</text>
+        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>

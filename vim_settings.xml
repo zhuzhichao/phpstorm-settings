@@ -3,32 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1554782759109">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Controller/Html/Article.php" timestamp="1554774022070">
-        <mark key="'" line="108" column="0" />
-      </file>
-      <file name="/PHP Console" timestamp="1554774533995">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1554797471180">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1554771778947">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" timestamp="1554782758065">
-        <mark key="'" line="21" column="23" />
-        <mark key="[" line="95" column="41" />
-        <mark key="]" line="95" column="40" />
-        <mark key="^" line="95" column="40" />
-        <mark key="." line="95" column="40" />
+      <file name="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Lib/Selfmedia/Selfmedia.php" timestamp="1554797067477">
+        <mark key="[" line="97" column="45" />
+        <mark key="]" line="83" column="55" />
+        <mark key="." line="83" column="55" />
+        <mark key="^" line="83" column="55" />
       </file>
-      <file name="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Controller/Html/Selfmedia.php" timestamp="1554776140275">
-        <mark key="[" line="33" column="34" />
-        <mark key="]" line="35" column="34" />
-        <mark key="^" line="35" column="34" />
-        <mark key="." line="35" column="34" />
+      <file name="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaFollow.php" timestamp="1554797696881">
+        <mark key="[" line="66" column="13" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Template/selfmedia/home.phtml" timestamp="1554773792777">
         <mark key="[" line="0" column="0" />
@@ -36,12 +29,39 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Public/index.php" timestamp="1554774502605">
-        <mark key="[" line="67" column="21" />
-        <mark key="]" line="67" column="20" />
-        <mark key="^" line="67" column="20" />
-        <mark key="." line="67" column="20" />
+      <file name="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Public/index.php" timestamp="1554790622671">
+        <mark key="'" line="129" column="88" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="^" line="122" column="0" />
+        <mark key="." line="122" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/data/logs/20190409/SERVER-SIGN-NULL_ERROR_rest-uncatch-exception-.log" timestamp="1554794330136">
+        <mark key="'" line="167" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Special/SpecialEdit.php" timestamp="1554792339991" />
+      <file name="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Controller/Html/Article.php" timestamp="1554774022070">
+        <mark key="'" line="108" column="0" />
+      </file>
+      <file name="/PHP Console" timestamp="1554774533995">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" timestamp="1554797390375">
+        <mark key="'" line="22" column="23" />
+        <mark key="[" line="104" column="1" />
+      </file>
+      <file name="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/config/rest.php" timestamp="1554792546910">
+        <mark key="[" line="212" column="39" />
+        <mark key="]" line="212" column="39" />
+        <mark key="." line="212" column="39" />
+      </file>
+      <file name="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Controller/Html/Selfmedia.php" timestamp="1554776140275">
+        <mark key="[" line="33" column="34" />
+        <mark key="]" line="35" column="34" />
+        <mark key="^" line="35" column="34" />
+        <mark key="." line="35" column="34" />
+      </file>
+      <file name="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Special/SpecialAdd.php" timestamp="1554792333648" />
     </filemarks>
     <jumps>
       <jump line="80" column="49" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
@@ -112,13 +132,20 @@
       <jump line="91" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
       <jump line="103" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
       <jump line="21" column="23" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="120" column="33" filename="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Public/index.php" />
+      <jump line="125" column="56" filename="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Public/index.php" />
+      <jump line="126" column="36" filename="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Public/index.php" />
+      <jump line="128" column="88" filename="$USER_HOME$/Sites/xiangju/bxd/rest-bxd/Public/index.php" />
+      <jump line="13" column="44" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/data/logs/20190409/SERVER-SIGN-NULL_ERROR_rest-uncatch-exception-.log" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/data/logs/20190409/SERVER-SIGN-NULL_ERROR_rest-uncatch-exception-.log" />
+      <jump line="167" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/data/logs/20190409/SERVER-SIGN-NULL_ERROR_rest-uncatch-exception-.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>消关注接口</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>消关注接口</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
@@ -126,32 +153,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkZGJDbGllbnQgPSBtZWRvb2RiKCdieGRfcWEnKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgogICAgcHJpdmF0ZSBmdW5jdGlvbiBnZXRMaXN0Q29uZGl0aW9ucygpCiAgICB7CgogICAgfQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJG9ubHlfdW5mb2xsb3dlZDsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CgogICAgLyoqCiAgICAgKiDojrflj5blvZPliY3nlKjmiLflhbPms6jnmoToh6rlqpLkvZMgdV9pZAogICAgICoKICAgICAqIEByZXR1cm4gYXJyYXkKICAgICAqLwogICAgcHJvdGVjdGVkIGZ1bmN0aW9uIGdldE15Rm9sbG93ZWRTZWxmbWVkaWFVaWRzKCkKICAgIHsKICAgICAgICAkZGJDbGllbnQgPSBtZWRvb2RiKCdieGRfcWEnKTsKICAgICAgICAkZm9sbG93ZWRVaWRzID0gJGRiQ2xpZW50LT5zZWxlY3QoJ3NlbGZfbWVkaWFfcmVsYXRpb24nLCAnc21yX3RvVWlkJywgWydzbXJfZnJvbVVpZCcgPT4gJHRoaXMtPmxvZ2luX3VpZF0pOwoKICAgICAgICByZXR1cm4gJGRiQ2xpZW50LT5zZWxlY3QoJ3NlbGZfbWVkaWEnLCAndV9pZCcsIFsndV9pZCcgPT4gJGZvbGxvd2VkVWlkc10pOwogICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">dXNlIGNvbnRyb2xsZXJcVGhpbmtUYW5rXFRoaW5rVGFuazsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEB2YXIgaW50IOaYr+WQpuaYr+WPqui/lOWbnuacquWFs+azqOeahAo=</text>
+        <text encoding="base64">Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGZvbGxvd2VkVWlkczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRpc0ZvbGxvd2VkID0gJHVfaWQsICR0aGlzLT5sb2dpbl91aWQsICR0aGlzLT5hY3Rpb24pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBcbWVkb28gJGRiQ2xpZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dV9pZHMgPSAkdGhpcy0+X3JlcXVlc3QtPmdldFBhcmFtKCd1X2lkcycpZGQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBnZXRNeUZvbGxvd2VkVWlkcyhcbWVkb28gJGQpCg==</text>
+        <text encoding="base64">ICAgICdzZWxmbWVpZGEvJyA9PiBbJ2lkJyA9PiAxNjU0LCAnc2FmZV9sZXZlbCcgPT4gMSwgJ2lzX2xvZycgPT4gdHJ1ZSwgJ2lzX3JlcXVlc3RfbG9nJyA9PiB0cnVlLCAnaXNfcmVzcG9uc2VfbG9nJyA9PiB0cnVlLCAnZnJlcXVlbmN5X2xpbWl0JyA9PiAwLCAnc2FtZV9wYWNrYWdlX2xpbWl0JyA9PiAwXSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">dXNlIExpYlxDb21tb25cQXZhdGFyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set nonu</text>
@@ -187,6 +214,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

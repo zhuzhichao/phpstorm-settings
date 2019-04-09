@@ -1,0 +1,67 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/GraphQL.result.json" timestamp="1554742519900">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" timestamp="1554771538532">
+        <mark key="'" line="45" column="32" />
+        <mark key="[" line="51" column="34" />
+        <mark key="]" line="51" column="33" />
+        <mark key="." line="51" column="33" />
+        <mark key="^" line="51" column="33" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="47" column="17" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="48" column="61" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="51" column="61" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="79" column="21" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="80" column="49" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="86" column="28" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="91" column="61" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="2" column="21" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="11" column="12" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="13" column="15" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="16" column="22" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="18" column="20" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="43" column="14" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="44" column="52" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+      <jump line="45" column="32" filename="$USER_HOME$/Sites/xiangju/bxd/api-wenwen/Rest/Selfmeida/SelfmeidaList.php" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9naW5fdWlkID0gJHRoaXMtPl9yZXF1ZXN0LT5nZXRQYXJhbSgnbG9naW5fdWlkJyk7Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>_request</text>
+      </register>
+      <register name="-" type="4">
+        <text>_request</text>
+      </register>
+      <register name="/" type="4">
+        <text>id</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>id</last-search>
+      <last-offset />
+      <last-pattern>id</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>61</entry>
+        <entry>id</entry>
+      </history-search>
+      <history-cmd>
+        <entry>/61</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts />
+  </component>
+</application>

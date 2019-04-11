@@ -1,0 +1,8 @@
+<templateSet group="All">
+  <template name="tips" value="// tips: $END$." description="添加 tips" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

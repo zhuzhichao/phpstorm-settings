@@ -17,4 +17,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="opt" value="// optimize: $END$." description="添加 optimize" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>

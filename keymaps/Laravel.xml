@@ -73,6 +73,7 @@
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift ctrl meta open_bracket" />
   </action>
+  <action id="EditorCutLineEnd" />
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="delete" />
@@ -108,6 +109,12 @@
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
+  <action id="EditorScrollDownAndMove">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorScrollUpAndMove">
+    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt up" />
@@ -179,6 +186,10 @@
   </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
   </action>
   <action id="Refresh" />
   <action id="RenameElement">

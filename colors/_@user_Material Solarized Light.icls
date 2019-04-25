@@ -4,13 +4,13 @@
     <property name="created">2018-12-07T14:51:59</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2019-04-10T00:02:06</property>
+    <property name="modified">2019-04-25T10:02:39</property>
     <property name="originalScheme">Material Solarized Light</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.6" />
+  <option name="LINE_SPACING" value="2.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Operator Mono" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
+    <option name="EDITOR_FONT_SIZE" value="20" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
@@ -19,6 +19,7 @@
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c4d4aa" />
     <option name="ANNOTATIONS_COLOR" value="7a54e0" />

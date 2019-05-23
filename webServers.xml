@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="783db781-5cc2-472f-89f6-91dcb79a0735" name="galaxy-sparkle" url="https://galaxy-sparkle.test/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

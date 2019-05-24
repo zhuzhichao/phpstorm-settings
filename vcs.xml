@@ -6,6 +6,10 @@
           <option name="url" value="http://bddc-mobile-h-dev.scm.chinacloudsites.cn:443" />
           <option name="userName" value="l1044635791" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="zhuzhichao" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>

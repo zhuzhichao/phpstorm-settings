@@ -1,6 +1,12 @@
 <application>
+  <component name="DefaultFont">
+    <option name="USE_LIGATURES" value="true" />
+  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />

@@ -7,6 +7,11 @@
         <entry key="com.intellij.sql.editor.SqlLineMarkerProvider" value="true" />
         <entry key="com.intellij.ui.ColorLineMarkerProvider" value="true" />
         <entry key="com.jetbrains.php.codeInsight.PhpRecursiveCallLineMarkerProvider" value="true" />
+        <entry key="com.jetbrains.php.lang.PhpLineMarkerProvider" value="true" />
+        <entry key="js.implemented" value="true" />
+        <entry key="js.implementing" value="true" />
+        <entry key="js.overridden" value="true" />
+        <entry key="js.overriding" value="true" />
       </map>
     </option>
   </component>

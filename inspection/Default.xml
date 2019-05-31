@@ -1,4 +1,5 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
+  <inspection_tool class="PhpCSFixerValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpUnhandledExceptionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
 </profile>

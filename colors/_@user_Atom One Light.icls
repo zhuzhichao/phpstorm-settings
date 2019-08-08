@@ -4,10 +4,10 @@
     <property name="created">2019-08-08T10:13:16</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2019-08-08T10:18:17</property>
+    <property name="modified">2019-08-08T10:26:43</property>
     <property name="originalScheme">Atom One Light</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
+  <option name="LINE_SPACING" value="2.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Operator Mono" />
     <option name="EDITOR_FONT_SIZE" value="18" />
@@ -24,6 +24,7 @@
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="50a14e" />
     <option name="ANNOTATIONS_COLOR" value="232324" />
@@ -57,7 +58,7 @@
     <option name="FILESTATUS_modifiedOutside" value="986801" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="e5e5e5" />
     <option name="GUTTER_BACKGROUND" value="fafafa" />
-    <option name="INDENT_GUIDE" value="d3d4d5" />
+    <option name="INDENT_GUIDE" value="e0e1e2" />
     <option name="INFORMATION_HINT" value="fafafa" />
     <option name="LINE_NUMBERS_COLOR" value="9d9d9f" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="b216f" />
@@ -74,12 +75,12 @@
     <option name="NOT_CHANGED" value="232324" />
     <option name="QUESTION_HINT" value="fafafa" />
     <option name="RECENT_LOCATIONS_SELECTION" value="d3d4d5" />
-    <option name="RIGHT_MARGIN_COLOR" value="d3d4d5" />
+    <option name="RIGHT_MARGIN_COLOR" value="f4f4f4" />
     <option name="SELECTED_INDENT_GUIDE" value="809b" />
     <option name="SELECTED_TEARLINE_COLOR" value="809b" />
     <option name="SELECTION_BACKGROUND" value="e5e5e6" />
     <option name="SELECTION_FOREGROUND" value="232324" />
-    <option name="SEPARATOR_BELOW_COLOR" value="d3d4d5" />
+    <option name="SEPARATOR_BELOW_COLOR" value="ffffff" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="9d9d9f" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="2979ffc0" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="2979ffc0" />
@@ -112,7 +113,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="d3d4d5" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="e4564a" />
-    <option name="VISUAL_INDENT_GUIDE" value="d3d4d5" />
+    <option name="VISUAL_INDENT_GUIDE" value="f4f4f4" />
     <option name="WHITESPACES" value="e5e5e6" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="eaeaeb" />
   </colors>
@@ -199,7 +200,7 @@
     <option name="BREADCRUMBS_DEFAULT">
       <value>
         <option name="FOREGROUND" value="232324" />
-        <option name="BACKGROUND" value="fafafa" />
+        <option name="BACKGROUND" value="90acfa" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">

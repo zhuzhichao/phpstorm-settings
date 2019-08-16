@@ -200,6 +200,9 @@
   </action>
   <action id="Rerun" />
   <action id="SavaAs" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>

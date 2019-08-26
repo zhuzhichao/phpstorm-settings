@@ -4,7 +4,7 @@
     <property name="created">2019-08-22T14:41:00</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-08-22T21:32:03</property>
+    <property name="modified">2019-08-26T21:33:15</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.7" />
@@ -32,25 +32,7 @@
     <option name="CARET_COLOR" value="24292e" />
     <option name="CARET_ROW_COLOR" value="eeeeee" />
     <option name="DELETED_LINES_COLOR" value="d73a49" />
-    <option name="FILESTATUS_ADDED" value="22863a" />
-    <option name="FILESTATUS_DELETED" value="6a737d" />
-    <option name="FILESTATUS_HIJACKED" value="6a737d" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6a737d" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="32f62" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d73a49" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d73a49" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d73a49" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="32f62" />
-    <option name="FILESTATUS_MERGED" value="6f42c1" />
-    <option name="FILESTATUS_MODIFIED" value="5cc5" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="5cc5" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="5cc5" />
-    <option name="FILESTATUS_OBSOLETE" value="6a737d" />
-    <option name="FILESTATUS_SWITCHED" value="e36209" />
-    <option name="FILESTATUS_UNKNOWN" value="e36209" />
-    <option name="FILESTATUS_addedOutside" value="22863a" />
-    <option name="FILESTATUS_changelistConflict" value="d73a49" />
-    <option name="FILESTATUS_modifiedOutside" value="5cc5" />
     <option name="GUTTER_BACKGROUND" value="ffffff" />
     <option name="INDENT_GUIDE" value="dddddd" />
     <option name="LINE_NUMBERS_COLOR" value="aaaaaa" />

@@ -8,6 +8,7 @@
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
+      <mapping ext="asp" type="PLAIN_TEXT" />
       <mapping ext="debug" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>

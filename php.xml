@@ -1,30 +1,27 @@
 <application>
-  <component name="MessDetector">
-    <phpmd_settings_migrated />
-  </component>
   <component name="PhpCodeSniffer">
-    <phpcs_settings_migrated />
     <phpcs_settings>
       <PhpCSConfiguration max_messages_per_file="100" standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/.composer/vendor/bin/phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="4a97eee5-e6c9-49f2-93f6-914bdbc20705" name="PHP 7.3" home="/usr/local/Cellar/php/7.3.7/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="4a97eee5-e6c9-49f2-93f6-914bdbc20705" name="PHP" home="/usr/local/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.3">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.3.7/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.3.7/bin/php" path_separator=":" version="7.3.7">
-          <additional_php_ini>/usr/local/etc/php/7.3/conf.d/ext-opcache.ini, /usr/local/etc/php/7.3/conf.d/php-memory-limits.ini</additional_php_ini>
-          <configuration_file>/usr/local/etc/php/7.3/php.ini</configuration_file>
+      <interpreter name="PHP">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.4.4/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.4.4/bin/php" path_separator=":" version="7.4.4">
+          <additional_php_ini>/usr/local/etc/php/7.4/conf.d/ext-opcache.ini, /usr/local/etc/php/7.4/conf.d/php-memory-limits.ini</additional_php_ini>
+          <configuration_file>/usr/local/etc/php/7.4/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.3.7/share/php/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.4.4/share/php/pear" />
           </configuration_options>
           <debuggers />
           <loaded_extensions>
             <extension name="Core" />
+            <extension name="FFI" />
             <extension name="PDO" />
             <extension name="PDO_ODBC" />
             <extension name="Phar" />
@@ -69,6 +66,7 @@
             <extension name="posix" />
             <extension name="pspell" />
             <extension name="readline" />
+            <extension name="redis" />
             <extension name="session" />
             <extension name="shmop" />
             <extension name="soap" />
@@ -81,7 +79,6 @@
             <extension name="sysvshm" />
             <extension name="tidy" />
             <extension name="tokenizer" />
-            <extension name="wddx" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlrpc" />

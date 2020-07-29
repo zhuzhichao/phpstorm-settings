@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
+      <mapping pattern="PandaFan" type="PLAIN_TEXT" />
       <mapping pattern="npm" type="PLAIN_TEXT" />
       <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping pattern="Device" type="PLAIN_TEXT" />

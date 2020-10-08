@@ -4,7 +4,7 @@
     <property name="created">2018-12-07T14:51:59</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2019-05-25T00:45:37</property>
+    <property name="modified">2020-10-09T00:20:24</property>
     <property name="originalScheme">Material Solarized Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
@@ -24,8 +24,8 @@
     <option name="ADDED_LINES_COLOR" value="c4d4aa" />
     <option name="ANNOTATIONS_COLOR" value="7a54e0" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="2aa198" />
-    <option name="CARET_COLOR" value="586e75" />
-    <option name="CARET_ROW_COLOR" value="f5eedc" />
+    <option name="CARET_COLOR" value="a0b2b8" />
+    <option name="CARET_ROW_COLOR" value="f8f1db" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fdf6e3" />
     <option name="DELETED_LINES_COLOR" value="9e998e" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="d7d1c1" />
@@ -33,7 +33,7 @@
     <option name="DOCUMENTATION_COLOR" value="f4eddb" />
     <option name="ERROR_HINT" value="fdd4c4" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="acd3b4" />
-    <option name="GUTTER_BACKGROUND" value="faf3e0" />
+    <option name="GUTTER_BACKGROUND" value="fdf6e3" />
     <option name="HTML_TAG_TREE_LEVEL0" value="dc322f" />
     <option name="HTML_TAG_TREE_LEVEL1" value="b58900" />
     <option name="HTML_TAG_TREE_LEVEL2" value="859900" />
@@ -47,17 +47,17 @@
     <option name="INFORMATION_HINT" value="fbf6c9" />
     <option name="LINE_NUMBERS_COLOR" value="93a1a1" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="567983" />
-    <option name="METHOD_SEPARATORS_COLOR" value="eee8d5" />
+    <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="MODIFIED_LINES_COLOR" value="c1cfd3" />
     <option name="NOTIFICATION_BACKGROUND" value="faf6b5" />
     <option name="QUESTION_HINT" value="b6cce9" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="fcf5bd" />
-    <option name="RIGHT_MARGIN_COLOR" value="ded8c7" />
+    <option name="RIGHT_MARGIN_COLOR" value="" />
     <option name="SELECTED_INDENT_GUIDE" value="c8c3b5" />
     <option name="SELECTED_TEARLINE_COLOR" value="839496" />
-    <option name="SELECTION_BACKGROUND" value="839496" />
-    <option name="SELECTION_FOREGROUND" value="fdf6e3" />
+    <option name="SELECTION_BACKGROUND" value="efe8d5" />
+    <option name="SELECTION_FOREGROUND" value="" />
     <option name="SEPARATOR_BELOW_COLOR" value="e2dccb" />
     <option name="TEARLINE_COLOR" value="93a1a1" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="e8f7c9" />
@@ -2384,7 +2384,7 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fdf6e3" />
-        <option name="BACKGROUND" value="859900" />
+        <option name="BACKGROUND" value="b2c80d" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -4163,7 +4163,7 @@
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="73642" />
-        <option name="BACKGROUND" value="ffdf80" />
+        <option name="BACKGROUND" value="fdeebe" />
         <option name="ERROR_STRIPE_COLOR" value="ebc700" />
         <option name="EFFECT_TYPE" value="1" />
       </value>

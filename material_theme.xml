@@ -8,7 +8,6 @@
     <option name="accentScrollbars" value="false" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
-    <option name="darkTitleBar" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
@@ -19,8 +18,10 @@
     <option name="useMaterialFont2" value="true" />
     <option name="useMaterialWallpapers" value="true" />
     <option name="useProjectFrame" value="true" />
-    <option name="accentColor" value="009688" />
+    <option name="settingsSelectedTab" value="5" />
+    <option name="accentColor" value="ff9800" />
     <option name="highlightColor" value="80cbc4" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="32b8d02b:16488039022:-7fff" />
     <option name="version" value="5.2.0" />
   </component>

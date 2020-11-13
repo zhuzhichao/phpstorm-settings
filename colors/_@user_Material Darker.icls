@@ -4,7 +4,7 @@
     <property name="created">2018-10-24T11:51:36</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2019-04-24T14:10:01</property>
+    <property name="modified">2020-11-13T18:37:47</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -51,26 +51,28 @@
     <option name="INFORMATION_HINT" value="212121" />
     <option name="LINE_NUMBERS_COLOR" value="424242" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="616161" />
-    <option name="METHOD_SEPARATORS_COLOR" value="424242" />
+    <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6e" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="MT_SUPPRESSED" value="eeffff" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="NOT_CHANGED" value="616161" />
     <option name="QUESTION_HINT" value="212121" />
-    <option name="RIGHT_MARGIN_COLOR" value="303030" />
+    <option name="RIGHT_MARGIN_COLOR" value="" />
     <option name="SELECTED_INDENT_GUIDE" value="676767" />
-    <option name="SELECTED_TEARLINE_COLOR" value="616161" />
+    <option name="SELECTED_TEARLINE_COLOR" value="" />
     <option name="SELECTION_BACKGROUND" value="353535" />
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
+    <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
-    <option name="TEARLINE_COLOR" value="303030" />
+    <option name="TEARLINE_COLOR" value="" />
     <option name="TOOLTIP" value="323232" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="212121" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="424242" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="616161" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="5a4036" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="ab7967" />
+    <option name="VISUAL_INDENT_GUIDE" value="1b1b1b" />
     <option name="WHITESPACES" value="616161" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="d9f5dd" />
   </colors>

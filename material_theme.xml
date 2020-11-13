@@ -8,6 +8,7 @@
     <option name="accentScrollbars" value="false" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
+    <option name="darkTitleBar" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
@@ -17,8 +18,7 @@
     <option name="pristineConfig" value="false" />
     <option name="useMaterialFont2" value="true" />
     <option name="useMaterialWallpapers" value="true" />
-    <option name="useColoredDirectories" value="false" />
-    <option name="settingsSelectedTab" value="4" />
+    <option name="settingsSelectedTab" value="5" />
     <option name="accentColor" value="ff9800" />
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="DARKER" />

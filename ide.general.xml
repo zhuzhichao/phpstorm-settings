@@ -17,7 +17,6 @@
     <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.tree.ui.experimental" value="false" />
-    <entry key="editor.distraction.free.mode" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

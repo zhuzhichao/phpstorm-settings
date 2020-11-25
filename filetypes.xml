@@ -12,7 +12,6 @@
       <mapping ext="debug" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
-      <mapping ext="asp" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
